@@ -1,6 +1,5 @@
-Name:           Mg Thwin Htoo Aung
-Roll No:         6IST-1
-Title:             Immersive Learning through Augmented Reality for Children’s Quality Education
+Author Name:  Mr Thwin Htoo Aung
+Title: Immersive Learning through Augmented Reality for Children’s Quality Education
 Date:             30.1.2024
   
   
